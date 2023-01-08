@@ -1,0 +1,14 @@
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\bin\Debug\netcoreapp3.1\Exam_Pharmacy_2023.exe
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\bin\Debug\netcoreapp3.1\Exam_Pharmacy_2023.deps.json
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\bin\Debug\netcoreapp3.1\Exam_Pharmacy_2023.runtimeconfig.json
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\bin\Debug\netcoreapp3.1\Exam_Pharmacy_2023.runtimeconfig.dev.json
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\bin\Debug\netcoreapp3.1\Exam_Pharmacy_2023.dll
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\bin\Debug\netcoreapp3.1\Exam_Pharmacy_2023.pdb
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\obj\Debug\netcoreapp3.1\Exam_Pharmacy_2023.csproj.AssemblyReference.cache
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\obj\Debug\netcoreapp3.1\Exam_Pharmacy_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\obj\Debug\netcoreapp3.1\Exam_Pharmacy_2023.AssemblyInfoInputs.cache
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\obj\Debug\netcoreapp3.1\Exam_Pharmacy_2023.AssemblyInfo.cs
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\obj\Debug\netcoreapp3.1\Exam_Pharmacy_2023.csproj.CoreCompileInputs.cache
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\obj\Debug\netcoreapp3.1\Exam_Pharmacy_2023.dll
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\obj\Debug\netcoreapp3.1\Exam_Pharmacy_2023.pdb
+C:\Users\PC_Home\source\repos\Exams\Exam_Pharmacy_2023\obj\Debug\netcoreapp3.1\Exam_Pharmacy_2023.genruntimeconfig.cache

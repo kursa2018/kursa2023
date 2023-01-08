@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exam_Pharmacy_2023/1.0.0": {
+        "runtime": {
+          "Exam_Pharmacy_2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam_Pharmacy_2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
